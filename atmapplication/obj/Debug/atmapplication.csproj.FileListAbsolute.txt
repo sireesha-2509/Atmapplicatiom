@@ -1,0 +1,7 @@
+C:\Users\sireesha.a.mekala\source\repos\atmapplication\atmapplication\bin\Debug\atmapplication.exe.config
+C:\Users\sireesha.a.mekala\source\repos\atmapplication\atmapplication\bin\Debug\atmapplication.exe
+C:\Users\sireesha.a.mekala\source\repos\atmapplication\atmapplication\bin\Debug\atmapplication.pdb
+C:\Users\sireesha.a.mekala\source\repos\atmapplication\atmapplication\obj\Debug\atmapplication.csprojAssemblyReference.cache
+C:\Users\sireesha.a.mekala\source\repos\atmapplication\atmapplication\obj\Debug\atmapplication.csproj.CoreCompileInputs.cache
+C:\Users\sireesha.a.mekala\source\repos\atmapplication\atmapplication\obj\Debug\atmapplication.exe
+C:\Users\sireesha.a.mekala\source\repos\atmapplication\atmapplication\obj\Debug\atmapplication.pdb
